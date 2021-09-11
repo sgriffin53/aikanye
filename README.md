@@ -51,3 +51,5 @@ And my niggas said I shouldn't let it worry me
 Niggas ain't real as they pretend to be
 You're gonna be the death of me
 They take me to the back and pat me
+
+More sample outputs are available at samples.txt
